@@ -69,7 +69,7 @@ My mission is to use **data-driven approaches** to make impactful, ethical, and 
 - 🌍 **Portfolio:** [portfolioakhilesh.vercel.app](https://portfolioakhilesh.vercel.app/)
 - 📧 **Email:** [akhileshyadav.maths@gmail.com](mailto:akhileshyadav.maths@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/akhileshyadav1598](https://www.linkedin.com/in/akhileshyadav1598/)
-- 💻 **GitHub:** [MathTechWhiz](https://github.com/MathTechWhiz)
+- 💻 **GitHub:** [AkhileshMath](https://github.com/akhileshmath)
 
 ---
 
