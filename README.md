@@ -19,26 +19,32 @@ My mission is to use **data-driven approaches** to make impactful, ethical, and 
 
 ---
 
-### 🛠️ Technical Skills
+## 💼 Tech Stack & Tools
 
 #### 💻 Programming Languages
 `Python` • `R` • `SQL` • `C++`
 
 #### 📚 Machine Learning & Deep Learning
-`Scikit-learn` • `XGBoost` • `TensorFlow` • `Keras` • `PyTorch` • `OpenCV` • `Transformers (HuggingFace)` • `NLP: Spacy, NLTK`
+`Scikit-learn` • `XGBoost` • `TensorFlow` • `Keras` • `PyTorch` • `OpenCV`  
+`Transformers (HuggingFace)` • `NLP: spaCy, NLTK`
 
 #### 📊 Data Analysis & Visualization
 `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Plotly` • `Tableau` • `Power BI`
 
-#### ☁️ Big Data & Cloud
+#### ☁️ Big Data & Cloud Platforms
 `Apache Spark` • `Hadoop` • `AWS (EC2, S3)` • `Google Colab`
 
 #### 🗄️ Databases & Storage
 `MySQL` • `PostgreSQL` • `MongoDB`
 
-#### ⚙️ MLOps, Deployment & Tools
-`Docker` • `Kubernetes` • `CI/CD` • `Git` • `GitHub` • `Streamlit` • `Flask` • `FastAPI` • `Jupyter Lab` • `VS Code` • `PyCharm`
+#### ⚙️ MLOps, Deployment & Dev Tools
+`Docker` • `Kubernetes` • `CI/CD` • `Git` • `GitHub` • `Streamlit` • `Flask`  
+`FastAPI` • `Jupyter Lab` • `VS Code` • `PyCharm`
 
+#### 🤖 Automation, Agents & Low-Code Tools
+`n8n` • `Make.com` • `Zapier` • `LangChain` • `Dify` • `Node-RED`
+
+---
 ---
 
 ### 🧠 Soft Skills
@@ -54,12 +60,11 @@ My mission is to use **data-driven approaches** to make impactful, ethical, and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathTechWhiz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathTechWhiz&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akhileshmath&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshmath&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathTechWhiz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshmath&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
