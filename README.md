@@ -62,14 +62,14 @@ Developed rigorous mathematical frameworks for modeling **non-probabilistic unce
 
 ---
 
-### 🌐 MLMathematics
+### 🌐 MathLumen
 
-I am building **MLMathematics**, an academic initiative focused on the  
+I am building **MathLumen**, an academic initiative focused on the  
 **mathematical foundations of machine learning, SciML, and physics-informed modeling**.
 
 The platform aims to bridge **rigorous mathematics** with **modern learning-based methods** for research, education, and scientific dissemination.
 
-🌍 https://mlmathematics.com
+🌍 [https://mathlumen.com](https://mathlumen.com)
 
 ---
 
@@ -88,7 +88,7 @@ I am open to **academic research collaboration** in areas related to:
 
 - 📧 **Email:** akhileshyadav.maths@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/akhileshyadav1598  
-- 🌍 **MLMathematics:** https://mlmathematics.com  
+- 🌍 **MathLumen:** https://mathlumen.com  
 
 ---
 
